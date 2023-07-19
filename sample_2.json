@@ -1,0 +1,11 @@
+{
+firstname: "Janvi",
+lastname: "Singh",
+dob: "20/11/2001",
+age: "21",
+address: {
+    pincode: "110032",
+    state: "delhi",
+}
+
+}

@@ -1,0 +1,11 @@
+{
+    
+    firstname: "Negrah",
+    lastname: "S",
+    dob: "23/03/2003",
+    age: "19",
+    address: {
+        pincode: "201310",
+        state: "UP",
+    }
+}
