@@ -1,0 +1,30 @@
+//PUT index_name
+{
+    "mappings": {
+      "properties": {
+        "firstname": {
+          "type": "text"
+        },
+        "lastname": {
+          "type": "text"
+        },
+        "dob": {
+          "type": "date",
+          "format": "yyyy-MM-dd"
+        },
+        "age": {
+          "type": "integer"
+        },
+        "address": {
+          "properties": {
+            "pincode": {
+              "type": "keyword"
+            },
+            "state": {
+              "type": "text"
+            }
+          }
+        }
+      }
+    }
+  }
