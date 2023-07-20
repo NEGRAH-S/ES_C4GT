@@ -8,8 +8,9 @@
 - [x] Selecting a remote File and doing all the task for prog=ject over it 
 - [] Mapping of Json file made
 - [] kafka ingestion of ES
-- []
-- [] 
+- [] Mapping file for telementry
+- [] Flink job conversion
+- [] Automation and Documentation 
 
 ## Review schedule
 - [x] First review on sharing of mapping
