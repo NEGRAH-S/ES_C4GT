@@ -92,7 +92,7 @@ By default it shows only 10 entries of data per hit
 "Enter New/Updated Data"
 }
 
-<img src='img/index.png'/>
+
 
 
 - To update the data in the the index we can keep the  unique indentifier used in above command 
@@ -149,11 +149,11 @@ PUT tutorial2
 
 - The output show up mapping that was updated  for the data
 
-<img src='img/maualMapping.png'/>
+
 
 
 
 - At last we can go to visualise select the type of visualisation we want and on what 
 parameter we want to make a slice(Pie chart)
 
-<img src='img/visualtisation.png'/>
+
